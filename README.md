@@ -6,10 +6,7 @@ LRU Cache for system design
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Features](#features)
-* [Database](#database)
 * [Description](#description)
-* [Questions](#questions)
 ## Description 
 An LRU (Least Recently Used) Cache is a type of data structure that stores a fixed number of elements and automatically removes the least recently used element when the cache reaches its capacity
 ## Installation
